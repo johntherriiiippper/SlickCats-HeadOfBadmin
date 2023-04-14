@@ -26,4 +26,7 @@ You just can't install chrome extensions that are blocked by your admins, but yo
 # How do I disable my stupid blocking extension(securely, GoGuardian, etc...)
 1. check chromeOS version, if its above v108 you probably need a downgrade
 2. Go to the Github Page: https://github.com/3kh0/ext-remover
-3. Then
+3. Then scroll down to LTbeef Disable extensions
+4. then go to ingot , FOLLOW THE INSTRUCTIONS EXACTLY
+5. that's it, if you did it correctly then it should work
+<img width="643" alt="Screenshot 2023-04-14 at 5 15 31 PM" src="https://user-images.githubusercontent.com/130019697/232166194-ce6c6ae5-8f5f-4ec9-a811-c4d223d19ca6.png">
