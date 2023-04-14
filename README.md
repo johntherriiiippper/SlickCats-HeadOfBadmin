@@ -1,5 +1,5 @@
 # SlickCat7741ShaderJam
-USE YOUR BRAIN AND READ!!!!!    Use any of the things provided at YOUR OWN RISK!!!!! Not Encouraged, you may NOT edit any of the code provided here or deplicate and sell the CODE for any Market Value!!!!!!!!!!!!!!
+USE YOUR BRAIN AND READ!!!!!    Use any of the things provided at YOUR OWN RISK!!!!! Not Encouraged, you should in fact TURN BACK NOW!!!!!!!!! You may NOT edit any of the code provided here or duplicate and sell the CODE for any Market Value!!!!!!!!!!!!!!
 
 # What the Heck is a Chromebook
 FYI those of you who came here, a chromebook is a device produced by many electronics companies(dell, hp, lenovo) that is a small lightweight and not powerful laptop device. it is installed with an operating system called ChromeOS, which has many bugs and issues, and it is for us to help find those issues for google for them to patch them, but in the mean time its not a bad idea to take advantage of those and maybe try somehting new! Lmao most hacks here might already be patched but still its worth a try!
@@ -14,3 +14,11 @@ You just can't install chrome extensions that are blocked by your admins, but yo
 1.   click on the puzzle piece at the top right hand corner and then click on manage extensions: <img width="401" alt="Screenshot 2023-04-14 at 4 34 59 PM" src="https://user-images.githubusercontent.com/130019697/232159193-e5c6ee30-4653-4714-9043-83501bf698f9.png">
 2.   tap on any extension and go to the url box, and highlight and copy everything after the "id=", it should only be letters(no numbers)<img width="519" alt="Screenshot 2023-04-14 at 4 37 33 PM" src="https://user-images.githubusercontent.com/130019697/232159473-e01247ae-1f8b-48e0-b9b4-298dee494756.png">
 3.   Its that easy
+
+# How do I run Javascript Code in Chrome?
+1. go to "google.com", or some random website, and then in the url bar delete everything and then add the phrase "Javascript: (paste in the code)"
+
+# How do I make a Javascript Bookmark
+1. bookmark any page
+2. go to the page and right click or double tap, then on the dropdown menu click on edit. <img width="348" alt="Screenshot 2023-04-14 at 4 42 25 PM" src="https://user-images.githubusercontent.com/130019697/232160100-04c442fe-2e4d-4bae-9bfa-32ce730bbece.png"> then in name section you can rename it to whatever you would like(optional), and then in the url section delete everything and then add "Javascript: (paste in your code)" <img width="503" alt="Screenshot 2023-04-14 at 4 44 11 PM" src="https://user-images.githubusercontent.com/130019697/232160338-181a52ed-3f08-4b3a-b273-6bbd72569763.png">
+3. Done, to use it just click on it
