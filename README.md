@@ -30,3 +30,24 @@ You just can't install chrome extensions that are blocked by your admins, but yo
 4. then go to ingot , FOLLOW THE INSTRUCTIONS EXACTLY
 5. that's it, if you did it correctly then it should work
 <img width="643" alt="Screenshot 2023-04-14 at 5 15 31 PM" src="https://user-images.githubusercontent.com/130019697/232166194-ce6c6ae5-8f5f-4ec9-a811-c4d223d19ca6.png">
+
+# How do I downgrade ChromeOS Version?
+1. check board name
+2. do to https://chrome100.dev/
+3. ctrl+f search your board name
+4. Click on "see more"<img width="252" alt="Screenshot 2023-04-14 at 5 39 28 PM" src="https://user-images.githubusercontent.com/130019697/232166423-035dbdb6-929c-4d74-97bc-e99cf4c17747.png">
+5. ctrl+f to find 81.0.4044.141 and then hit download
+6. use the replit link or your pc and install the chromebook recovery utility
+7. Buy a usb from amazon(recommend SanDisk) at least 
+8. Stick your usb into your chromebook
+9. open up the chromebook recovery utlity, and click on the gear icon in the top right hand corner of the window and select "use local image"
+10. then load your chromeos file you just downloaded
+11. wait, just have patience
+12. if any error occurs restart the process starting from step 9
+13. wait for it to finish, it should have a big checkmark displayed when its all set
+14. exit the extension
+15. on your chromebook press 3 keys all at once:  esc + Power + refresh
+16. stick your usb in
+17. it should say verifying recovery whatever
+18. any errors restart from step 15
+19. done
