@@ -51,3 +51,4 @@ You just can't install chrome extensions that are blocked by your admins, but yo
 17. it should say verifying recovery whatever
 18. any errors restart from step 15
 19. done
+
