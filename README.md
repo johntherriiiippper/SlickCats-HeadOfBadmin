@@ -22,3 +22,8 @@ You just can't install chrome extensions that are blocked by your admins, but yo
 1. bookmark any page
 2. go to the page and right click or double tap, then on the dropdown menu click on edit. <img width="348" alt="Screenshot 2023-04-14 at 4 42 25 PM" src="https://user-images.githubusercontent.com/130019697/232160100-04c442fe-2e4d-4bae-9bfa-32ce730bbece.png"> then in name section you can rename it to whatever you would like(optional), and then in the url section delete everything and then add "Javascript: (paste in your code)" <img width="503" alt="Screenshot 2023-04-14 at 4 44 11 PM" src="https://user-images.githubusercontent.com/130019697/232160338-181a52ed-3f08-4b3a-b273-6bbd72569763.png">
 3. Done, to use it just click on it
+
+# How do I disable my stupid blocking extension(securely, GoGuardian, etc...)
+1. check chromeOS version, if its above v108 you probably need a downgrade
+2. Go to the Github Page: https://github.com/3kh0/ext-remover
+3. Then
