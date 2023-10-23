@@ -52,5 +52,6 @@ Then just follow the steps as shown(psst... you can install the chromebook recov
 16. stick your usb in
 17. it should say verifying recovery whatever
 18. any errors restart from step 15
-19. done
+19. WARNING: THIS IS PATCHED FROM Version 117 and Up, so we're out of luck
+20. done
 
