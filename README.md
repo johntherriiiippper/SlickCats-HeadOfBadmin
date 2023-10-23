@@ -9,6 +9,7 @@ In the Ultimate goal of Unenrolling chromebooks comes many obstacles, the first 
 
 # How do I install chrome extensions when Web Store is Blocked?
 You just can't install chrome extensions that are blocked by your admins, but you are able to install the ones that are allowed by your admin, and to do that is go to this replit link: https://replit.com/@CompactCow/i-love-replit-it-is-my-favorite-website-ever-and-its-so-goo#main.py 
+Then just follow the steps as shown(psst... you can install the chromebook recovery utility)
 
 # How do i find the Extension ID?
 1.   click on the puzzle piece at the top right hand corner and then click on manage extensions: <img width="401" alt="Screenshot 2023-04-14 at 4 34 59 PM" src="https://user-images.githubusercontent.com/130019697/232159193-e5c6ee30-4653-4714-9043-83501bf698f9.png">
@@ -30,6 +31,7 @@ You just can't install chrome extensions that are blocked by your admins, but yo
 4. then go to ingot , FOLLOW THE INSTRUCTIONS EXACTLY
 5. that's it, if you did it correctly then it should work
 <img width="643" alt="Screenshot 2023-04-14 at 5 15 31 PM" src="https://user-images.githubusercontent.com/130019697/232166194-ce6c6ae5-8f5f-4ec9-a811-c4d223d19ca6.png">
+6. NOTE: !!!!!!!ONLY WORKS ON CERTAIN ChromeOS Versions, the updated ChromeOS versions won't let you do it!!!
 
 # How do I downgrade ChromeOS Version?
 1. check board name
